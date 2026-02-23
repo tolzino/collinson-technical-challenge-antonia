@@ -12,6 +12,6 @@ T-Shirt Sizing
 | PostgreSQL | M | Transactional persistence, indexing, migrations | Schema evolution |
 | Redis | S | Short-lived caching layer | Stale data tolerance |
 | Event Bus | S/M | Asynchronous event propagation | Message ordering, retry logic |
-| Observability | S | Logging, metrics, tracing integration | Alert fatigue if misconfigured |
+| Observability | M | Logging, metrics, tracing integration | Alert fatigue if misconfigured |
 
 ---
