@@ -2,9 +2,10 @@
 Technical Architecture Submission
 
 **Live Prototype:**  
-https://client-solutions-architect-test.netlify.app/
+- https://client-solutions-architect-test-page1.netlify.app/
+- https://client-solutions-architect-test-page2.netlify.app/
 
-This front-end demo prototype showcases a passenger flow from home -> journey planning -> taxi booking -> booking status -> terminal/lounges -> profile/entitlement.
+This front-end demo prototype showcases a passenger flow from home -> journey planning -> taxi booking -> booking status -> terminal/lounges -> profile/entitlement. The second demo view illustrates the Taxi Partner (Uber-style) application with embedded Priority Pass integration. It demonstrates, viewing ride details enriched with airport journey context (flight + destination terminal), surface indication that the user has active Priority Pass access upon arrival and lounge options, and clear visual continuity between ride booking and airport benefit experience.
 
 Interactive elements include bottom navigation, journey/taxi booking flow, terminal selection, and key CTA buttons. Some actions are intentionally placeholders (e.g, profile/visit history, change airport) and do not call real APIs.
 
